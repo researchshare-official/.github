@@ -1,4 +1,4 @@
-## Hi there 👋
+![](./researchshare-logo.svg)
 
 <!--
 
